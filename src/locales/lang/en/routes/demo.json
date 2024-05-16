@@ -1,0 +1,14 @@
+{
+  "editor": {
+    "editor": "Editor",
+    "codeEditor": "Code editor",
+    "markdown": "Markdown editor",
+    "tinymce": "Rich text",
+    "tinymceBasic": "Basic",
+    "tinymceForm": "embedded form"
+  },
+  "example": {
+    "moduleName": "Example Pages",
+    "form": "Form"
+  }
+}

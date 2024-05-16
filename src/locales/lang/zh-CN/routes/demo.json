@@ -1,0 +1,9 @@
+{
+  "steps": {
+    "page": "引导页"
+  },
+  "example": {
+    "moduleName": "示例页面",
+    "form": "表单"
+  }
+}
